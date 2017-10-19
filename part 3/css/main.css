@@ -1,18 +1,19 @@
 p, #es {
   display: inline-block;
-  padding: 10px 100px 70px 5px;
 }
 
 p {
-  color: #2B2B2B;
   background-color: #F7B617;
+  color: #2B2B2B;
+  padding: 10px 100px 70px 5px;
 }
 
 #es {
-  color: #FFFFFF;
   background-color: #2B2B2B;
   box-sizing: content-box;
+  color: #FFFFFF;
   margin: 20px;
+  padding: 10px 200px 70px 5px;
 }
 
 
